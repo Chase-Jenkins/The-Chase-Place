@@ -2,7 +2,7 @@
   "name": "the-chase-place",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Chase-Jenkins/The-Chase-Place",
+  "homepage": "https://Chase-Jenkins.github.io/The-Chase-Place",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
