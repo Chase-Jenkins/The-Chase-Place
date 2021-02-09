@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Chase-Jenkins/The-Chase-Place/static/css/main.3b018cd9.chunk.css",
+    "main.js": "/Chase-Jenkins/The-Chase-Place/static/js/main.c35231dc.chunk.js",
+    "main.js.map": "/Chase-Jenkins/The-Chase-Place/static/js/main.c35231dc.chunk.js.map",
+    "runtime-main.js": "/Chase-Jenkins/The-Chase-Place/static/js/runtime-main.0a8bd219.js",
+    "runtime-main.js.map": "/Chase-Jenkins/The-Chase-Place/static/js/runtime-main.0a8bd219.js.map",
+    "static/js/2.12d495a8.chunk.js": "/Chase-Jenkins/The-Chase-Place/static/js/2.12d495a8.chunk.js",
+    "static/js/2.12d495a8.chunk.js.map": "/Chase-Jenkins/The-Chase-Place/static/js/2.12d495a8.chunk.js.map",
+    "index.html": "/Chase-Jenkins/The-Chase-Place/index.html",
+    "static/css/main.3b018cd9.chunk.css.map": "/Chase-Jenkins/The-Chase-Place/static/css/main.3b018cd9.chunk.css.map",
+    "static/js/2.12d495a8.chunk.js.LICENSE.txt": "/Chase-Jenkins/The-Chase-Place/static/js/2.12d495a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a8bd219.js",
+    "static/js/2.12d495a8.chunk.js",
+    "static/css/main.3b018cd9.chunk.css",
+    "static/js/main.c35231dc.chunk.js"
+  ]
+}
